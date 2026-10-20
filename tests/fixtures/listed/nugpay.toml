@@ -1,0 +1,16 @@
+# Source: https://nugpay.app/.well-known/stellar.toml (fetched 2026-10-20)
+[DOCUMENTATION]
+ORG_NAME = "NUGPay"
+ORG_URL = "https://nugpay.app"
+
+[[CURRENCIES]]
+code = "DMMK"
+issuer = "GDMMKKNI5KTQWFEI57ZTCAPFUJFGQSW5YUN5AJ4O2I25JXEU3IL2DZXD"
+anchor_asset_type = "fiat"
+anchor_asset = "MMK"
+
+[[CURRENCIES]]
+code = "nUSDT"
+issuer = "GDNFHWGIGH4PAPBDOWKNHAZIK2M5CM3EVJ6ZR7A3DRQGWOVGJYLNUSDT"
+anchor_asset_type = "crypto"
+anchor_asset = "USD"

@@ -1,0 +1,22 @@
+{
+  "id": "nugpay",
+  "name": "NUGPay",
+  "kind": "issuer",
+  "domains": ["nugpay.app"],
+  "orgUrl": "https://nugpay.app",
+  "verifiedAt": "2026-09-23",
+  "assets": [
+    {
+      "code": "DMMK",
+      "issuer": "GDMMKKNI5KTQWFEI57ZTCAPFUJFGQSW5YUN5AJ4O2I25JXEU3IL2DZXD",
+      "anchorAssetType": "fiat",
+      "anchorAsset": "MMK"
+    },
+    {
+      "code": "nUSDT",
+      "issuer": "GDNFHWGIGH4PAPBDOWKNHAZIK2M5CM3EVJ6ZR7A3DRQGWOVGJYLNUSDT",
+      "anchorAssetType": "crypto",
+      "anchorAsset": "USD"
+    }
+  ]
+}

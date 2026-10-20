@@ -23,6 +23,7 @@ import mobius from './mobius.json';
 import moneygramMgusd from './moneygram-mgusd.json';
 import nafuloo from './nafuloo.json';
 import naobtc from './naobtc.json';
+import nugpay from './nugpay.json';
 import phoenix from './phoenix.json';
 import reyts from './reyts.json';
 import stronghold from './stronghold.json';
@@ -44,6 +45,7 @@ const RAW: unknown[] = [
   moneygramMgusd,
   nafuloo,
   naobtc,
+  nugpay,
   phoenix,
   reyts,
   stronghold,
